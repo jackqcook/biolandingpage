@@ -1,0 +1,4 @@
+# Editor / local tooling
+.claude/
+.DS_Store
+.vscode/
